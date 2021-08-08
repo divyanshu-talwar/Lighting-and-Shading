@@ -1,5 +1,5 @@
 # Lighting-and-Shading
-Illuminating the scene with a point light source and implementing & comparing different lighting computation methods in programmable OpenGL.
+Illuminating the scene with a point light source and implementing & comparing different lighting computation methods in OpenGL.
 
 In this project we:
 * Illuminate the scene by adding a point light source.
